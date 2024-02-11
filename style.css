@@ -1,0 +1,25 @@
+body {
+    background-color: #f1f1f1; /* Updated: Light gray background */
+    font-family: 'Open Sans', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+.logo svg {
+    width: 150px; /* Updated: Smaller logo size */
+    height: auto;
+}
+
+.message h1 {
+    font-size: 3em;
+    font-weight: 700; 
+    color: #333;
+    margin-top: 20px;
+}
